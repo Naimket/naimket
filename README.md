@@ -16,7 +16,7 @@
 
 I combine a **finance background** with **data and AI skills** to build tools for wealth management and private banking.
 
-- 🎓 **BBA in Business Administration** (Finance specialization), University of Zaragoza, 2024
+- 🎓 **BSc in Business Administration** (Finance specialization), University of Zaragoza, 2024
 - 🎓 **MSc in Wealth Management**, University of Geneva (GSEM), from September 2026
 - 🧾 Prior experience in **financial reporting and internal controls** (SAP, Excel, VBA)
 - 🔭 Currently building **WealthAI-Copilot**, a multi-source RAG agent for wealth advisors
